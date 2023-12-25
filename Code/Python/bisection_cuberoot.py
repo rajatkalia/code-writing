@@ -1,10 +1,10 @@
 ####################
 ## EXAMPLE: bisection cube root (only positive cubes!)
 ####################
-cube = 27
+#cube = 27
 cube = 8120601
 # won't work with x < 1 because initial upper bound is less than ans
-cube = 0.25
+#cube = 0.25
 epsilon = 0.01
 num_guesses = 0
 low = 0
